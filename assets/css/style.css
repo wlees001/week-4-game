@@ -1,0 +1,22 @@
+.titlename{
+	display: flex;
+	justify-content: center;
+}
+
+.crystals{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.crystal{
+	border: 1px solid black;
+	height: 100px;
+	width: 100px;
+	border-radius: 2px;
+	box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
+}
+
+img{
+	width: 20px;
+}
